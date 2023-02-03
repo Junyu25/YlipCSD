@@ -1,4 +1,4 @@
-name: condaPY36mac
+name: YlipCSD
 channels:
   - defaults
 dependencies:
@@ -128,4 +128,4 @@ dependencies:
     - xgboost==0.82
     - xlrd==1.1.0
     - xlsxwriter==1.2.2
-prefix: /Users/jjczajka/miniconda3/envs/condaPY36mac
+prefix: /Users/junyu/miniconda3/envs/YlipCSD
